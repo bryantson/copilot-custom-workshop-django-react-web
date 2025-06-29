@@ -1,6 +1,6 @@
 # GitHub Copilot turorial - Let's build a full stack application with Python Django, ReactJS, and PostgreSQL stacks
 
-![GitHub Copilot tutorial](./images/cover-copilot.jpg)
+![GitHub Copilot tutorial](./images/cover-copilot-new.jpg
 
 In this **GitHub Copilot** tutorial, you will get to deliver a custom Copilot workshop that can help to build a full stack web application that involves a front end layer using ReactJS, a backend layer using Python Django, and a database layer using PostgreSQL.
 
