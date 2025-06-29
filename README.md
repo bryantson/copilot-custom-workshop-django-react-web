@@ -1,4 +1,4 @@
-# GitHub Copilot turorial - Let's build a full stack application with Python Django, ReactJS, and PostgreSQL stacks
+# GitHub Copilot tutorial - Let's build a full stack application with Python Django, ReactJS, and PostgreSQL stacks
 
 ![GitHub Copilot tutorial](./images/cover-copilot-new.jpg)
 
