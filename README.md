@@ -17,3 +17,7 @@ Without further ado, let's get started.
 5. [Build a Python Django server with REST](docs/5_BuildPythonDjango/README.md)
 6. [Build a front end layer with ReactJS](docs/6_BuildReactJS/README.md)
 7. [Lessons Learned - Best practices, gotchas, etc](docs/7_LessonsLearned/README.md)
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
