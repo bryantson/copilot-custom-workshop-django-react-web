@@ -2,6 +2,9 @@
 
 ![GitHub Copilot tutorial](./images/cover-copilot-new.jpg)
 
+This tutorial was made for my Udemy course titled [**GitHub Copilot - The Complete Guide learning from an expert**
+](https://www.udemy.com/course/draft/6134731/?referralCode=D40712FA3268AEE04F56). Please enroll for a full learning experience.
+
 In this **GitHub Copilot** tutorial, you will get to deliver a custom Copilot workshop that can help to build a full stack web application that involves a front end layer using ReactJS, a backend layer using Python Django, and a database layer using PostgreSQL.
 
 Because this tutorial involves several technology stacks, it is essential that you need to meet prerequisites as outlined from [Before getting started](docs/2_BeforeGettingStarted/README.md) if you want to follow along.
